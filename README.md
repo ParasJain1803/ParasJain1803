@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/paras18o3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paras18o3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/paras-jain-82099a252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/paras-jain-82099a252/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/parasjain._._/?igsh=mxzrnjh3dhlpnm1u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/parasjain._._/?igsh=mxzrnjh3dhlpnm1u" height="30" width="40" /></a>
+<a href="https://www.instagram.com/parasjain._._/?igsh=MXZrNjh3dHlpNm1u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/parasjain._._/?igsh=mxzrnjh3dhlpnm1u" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
